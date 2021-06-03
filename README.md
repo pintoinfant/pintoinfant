@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-
-**Pinto565/Pinto565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Docker
-- 🌱 I’m currently learning Full stact Web Dev
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pinto565&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![Pinto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pinto565&theme=vue&show_icons=true&)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pinto565&fire=42B883&ring=42B883&currStreakLabel=42B883)](https://git.io/streak-stats)
+[![Pinto's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pinto565&bg_color=fff&color=708090&line=24292e&point=42b883&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
