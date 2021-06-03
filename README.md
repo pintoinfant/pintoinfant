@@ -8,7 +8,7 @@
 
 
 <h2 align="center">Github Profile Stats</h2>
-<p align="center" display="flex">
+<p align="center">
      <img src="http://github-readme-streak-stats.herokuapp.com?user=Pinto565&fire=42B883&ring=42B883&currStreakLabel=42B883">
     <img src="https://github-readme-stats.vercel.app/api?username=Pinto565&theme=vue&show_icons=true&">
 </p>
@@ -18,6 +18,6 @@
 <br>-->
 
 <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinto565">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinto565&hide=pug">
 </p>
 
