@@ -15,9 +15,9 @@
 <!--<p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=Pinto565&bg_color=fff&color=708090&line=42B883&point=42B883&area=true&hide_border=true">
   </p>
-<br>-->
+<br>
 
 <p align="center">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinto565&hide=pug">
-</p>
+</p>-->
 
