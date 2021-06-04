@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pinto Infant</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A Noob to the Developer Community</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinto565&label=Profile%20views&color=0e75b6&style=flat" alt="pinto565" /> </p>
 
 - 👨‍💻 All of my projects are available at [pintoinfant.tech](pintoinfant.tech)
 
-- 📫 How to reach me **pintoinfant5650@outlook.com**
+- 📫 How to reach me pintoinfant5650@outlook.com
 
 <h2 align="center">TECH I USE</h2>
 
