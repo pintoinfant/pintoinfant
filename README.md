@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [pintoinfant.tech](pintoinfant.tech)
 
-- 📫 How to reach me pintoinfant5650@outlook.com
+- 📫Reach me at pintoinfant5650@outlook.com
 
 <h2 align="center">TECH I USE</h2>
 
