@@ -20,6 +20,7 @@
 <p align="center">
      <img src="https://raw.githubusercontent.com/Pinto565/github-stats/master/generated/overview.svg">
     <img src="https://raw.githubusercontent.com/Pinto565/github-stats/master/generated/languages.svg">
+  <!--<img src="https://activity-graph.herokuapp.com/graph?username=Pinto565">-->
 </p>
 <!--<p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=Pinto565&bg_color=fff&color=708090&line=42B883&point=42B883&area=true&hide_border=true">
