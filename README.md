@@ -9,7 +9,7 @@
 
 <h2 align="center">TECH I USE</h2>
 
-  `HTML` `CSS` `Javascript` `ReactJS` `Python` `Docker` `Docker Swarm` `Microk8s` `MySQL` `Github CI` `Google Cloud Platform` `Microsoft Azure` `Amazon Web Services` `Heroku` `Kintohub` `Qovery` `Railway` `Discord.py` `Telegram API` `pyTelegramBotAPI`
+  `HTML` `CSS` `Javascript` `ReactJS` `Python` `Docker` `Docker Swarm` `Microk8s` `MySQL` `Github CI` `Google Cloud Platform` `Microsoft Azure` `Heroku` `Kintohub` `Qovery` `Railway` `Discord.py` `Telegram API` `pyTelegramBotAPI`
 
 
 
