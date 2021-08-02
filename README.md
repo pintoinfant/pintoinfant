@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinto565&label=Profile%20views&color=0e75b6&style=flat" alt="pinto565" /> </p>
 
-- 👨‍💻 All of my projects are available at [pintoinfant.tech](pintoinfant.tech)
-
 - 📫Reach me at pintoinfant5650@outlook.com
 
 <h2 align="center">TECH I USE</h2>
