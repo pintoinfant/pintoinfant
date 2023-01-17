@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pinto Infant</h1>
-<h3 align="center">A Noob to the Developer Community</h3>
+<h4 align="center">Backend developer with a background in electronics engineering and an interest in machine learning. Experienced in various programming languages, API design, and DevOps. Currently diving into the field of Machine Learning and always looking for new challenges and opportunities to learn and grow as a developer.</h4>
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=LinkedIn&logoColor=white&color=fff)](https://linkedin.com/in/pinto-infant) [![Twitter](https://img.shields.io/badge/Twitter--informational?style=flat&logo=Twitter&logoColor=white&color=fff)](https://twitter.com/pintoinfant) [![Email](https://img.shields.io/badge/Gmail--informational?style=flat&logo=Gmail&logoColor=white&color=fff)](mailto:pintoinfantvalan@gmail.com) 
