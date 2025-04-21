@@ -1,5 +1,5 @@
 <h1 align="">Hey There..!👨‍💻</h1>
-<p align="">I'm Pinto Infant, a backend developer with experience in system design, cloud infrastructure, and DevOps. I specialize in building scalable and flexible solutions that leverage Docker, Kubernetes, CI/CD tools.</p>
+<p align="">Hey there! I'm Pinto Infant. Currently, I'm working as a Scholar at SAP Labs India, applying my 3 years of experience in building solid backends and contributing to scalable systems.</p>
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=LinkedIn&logoColor=white&color=fff)](https://linkedin.com/in/pinto-infant) [![Twitter](https://img.shields.io/badge/Twitter--informational?style=flat&logo=Twitter&logoColor=white&color=fff)](https://twitter.com/pintoinfant) [![Email](https://img.shields.io/badge/Gmail--informational?style=flat&logo=Gmail&logoColor=white&color=fff)](mailto:pintoinfantvalan@gmail.com) 
